@@ -1,3 +1,17 @@
 body {
-    background: blue;
+    background: rgba(106, 106, 123, 0.318);
+    border: 2px solid blue;
+    border-radius: 5px;
+    height: 500px;
 }
+
+h1 {
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
